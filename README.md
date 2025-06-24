@@ -26,6 +26,4 @@
 * Demonstrated that simulated parallel training reduces CNN training time significantly with minimal code rewriting.
 * Validated the feasibility of using large language models to automate parallelization tasks in deep learning workflows.
 
----
 
-Let me know if you'd like to add a “How to Run” section or visual summary!
